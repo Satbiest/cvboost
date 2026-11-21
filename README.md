@@ -12,7 +12,7 @@ CVBoost is a career intelligence application that compares a candidate's résum�
 ![Project](https://img.shields.io/badge/Category-AI%20%26%20NLP-6D5DFB)
 ![Focus](https://img.shields.io/badge/Focus-Career%20Intelligence-0B7A75)
 
-[**Explore the Repository**](https://github.com/Satbiest/project-netlify1) · [**Other Data Project: Kudata**](https://github.com/Satbiest/kudata)
+[**Explore the Repository**](https://github.com/Satbiest/project-netlify1)
 
 </div>
 
