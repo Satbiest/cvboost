@@ -99,25 +99,25 @@ Job descriptions often combine technical requirements, preferred qualifications,
 
 The central dashboard presents the overall score and supporting indicators after the user uploads a résumé and enters a job description.
 
-![CVBoost dashboard — resume and job description input with match metrics](assets/screenshots/cvboost-overview.png)
+![CVBoost dashboard — resume and job description input with match metrics](assets/screenshots/dashboard-overview.png)
 
 ### 2. Match analysis — Detailed scoring indicators
 
 The results screen breaks down the analysis into overall match, required skills, preferred skills, and semantic matching signals.
 
-![CVBoost match analysis — score cards and skills analysis](assets/screenshots/match-analysis.png)
+![CVBoost match analysis — score cards and skills analysis](assets/screenshots/matching-analysis.png)
 
 ### 3. Skill gap analysis — Matched vs. missing skills
 
 Skill chips group detected competencies and highlight areas for improvement, making the assessment easier to act on.
 
-![CVBoost matched skills and skills to improve sections](assets/screenshots/skills-gap.png)
+![CVBoost matched skills and skills to improve sections](assets/screenshots/skill-gap.png)
 
 ### 4. Growth roadmap — Next steps & related career paths
 
 The roadmap turns analysis into a practical learning direction and surfaces adjacent roles to consider.
 
-![CVBoost AI-generated growth roadmap and related roles](assets/screenshots/cvboost-growth-roadmap.png)
+![CVBoost AI-generated growth roadmap and related roles](assets/screenshots/career-roadmap.png)
 
 ## 🔄 How CVBoost Works
 
