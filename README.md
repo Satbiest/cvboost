@@ -253,7 +253,6 @@ Data Analytics • Business Intelligence • Data Science
 
 - GitHub: [@Satbiest](https://github.com/Satbiest)
 - Project: [CVBoost](https://github.com/Satbiest/project-netlify1)
-- Related portfolio project: [Kudata](https://github.com/Satbiest/kudata)
 
 ---
 
